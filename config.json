@@ -1,0 +1,39 @@
+{
+  "readmeUrl": "https://github.com/sourcesSword/Silvers",
+  "title": "Silvers",
+  "name": "Thiery K. Jean-Baptiste",
+  "ascii": "King",
+  "social": {
+    "github": "sourcesSword",
+    "linkedin": "https://www.linkedin.com/in/thiery-jean-baptiste-7b2804243/"
+  },
+  "email": "typicalthiery@email.com",
+  "ps1_hostname": "live",
+  "ps1_username": "guest",
+  "repo": "https://github.com/sourcesSword",
+  "resume_url": "https://github.com/sourcesSword",
+  "donate_urls": {
+    "paypal": "Nope",
+    "patreon": "Lol"
+  },
+  "colors": {
+    "light": {
+      "background": "#FBF1C9",
+      "foreground": "#3C3836",
+      "yellow": "#D79921",
+      "green": "#98971A",
+      "gray": "#7C6F64",
+      "blue": "#458588",
+      "red": "#CA2124"
+    },
+    "dark": {
+      "background": "#2E3440",
+      "foreground": "#E5E9F0",
+      "yellow": "#5E81AC",
+      "green": "#A3BE8C",
+      "gray": "#88C0D0",
+      "blue": "#EBCB8B",
+      "red": "#BF616A"
+    }
+  }
+}
